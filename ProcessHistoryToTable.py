@@ -1,5 +1,6 @@
 #Carl Herrmann
 
+#2019-02-27 V0.3 - Initial commit to Git.
 #2019-02-15 V0.2
 #2017-10-06 V0.1
 
